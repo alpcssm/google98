@@ -1,0 +1,32 @@
+.fs{
+    font-size: 16px;
+}
+.fs2{
+    font-size: 13px;
+}
+
+*{font-family: 'Roboto', sans-serif;
+}
+
+/* gri kutu */
+.kutu{
+    height: 60;
+    width: 1700.39px;
+    text-align: center;
+    background-color: lightgrey;
+    margin: 1px 5% 0;
+    display: flex;
+}
+
+/* paragraf margin 0 yap */
+p{
+    margin: 0%;
+}
+
+/* alt kutular */
+.kutu2{
+    text-align: center;
+    background-color: rgb(189, 76, 76);
+    height: 74px;
+}
+
